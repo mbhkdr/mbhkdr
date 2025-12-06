@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @mbhkdr
-- 👀 I’m interested in C++
-- 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on C++
-- 📫 How to reach me ...
-- 😄 Pronouns: C++
-- ⚡ Fun fact: C++
+- 👀 I’m interested in web dev, game dev
+- 🌱 I’m currently learning py
+- 📫 How to reach me: @moha_kbl (insta), @rgz (discord)
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: i love guns
 
 <!---
 mbhkdr/mbhkdr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
